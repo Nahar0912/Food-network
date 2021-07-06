@@ -7,6 +7,14 @@ h2{
 }
 .align{
     text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+#h-align{
+    margin-top: 20%;
+}
+#p-align{
+    margin-right: 20%;
 }
 body{
     font-family: 'Source Sans Pro', sans-serif;
@@ -32,7 +40,7 @@ body{
     padding-left: 5%;
 }
 .half-width img{
-    width: 80%;
+    width: 70%;
 }
 .top-banner{
     background-image: url(images/shapes/Frame\ 59.jpg);
@@ -53,7 +61,7 @@ body{
     border-radius: 10%;
 }
 .box-image{
-    width: 100%;
+    width: 110%;
     border-radius: 20%;
     padding-top: 15px;
     padding-right: 100%;
